@@ -1,0 +1,4 @@
+onlyBuiltDependencies:
+  - react-native-file-system
+  - react-native-local-media-metadata
+  - react-native-track-player
